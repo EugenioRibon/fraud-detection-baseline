@@ -80,7 +80,7 @@ En un caso real, cada falsa alarma es un cliente con la tarjeta bloqueada y un a
 ## 🚀 Cómo ejecutarlo
 
 ```bash
-git clone <url-del-repo>
+git clone https://github.com/EugenioRibon/fraud-detection-baseline
 cd fraud-baseline
 pip install pandas numpy scikit-learn matplotlib jupyter
 # coloca creditcard.csv en la raíz
